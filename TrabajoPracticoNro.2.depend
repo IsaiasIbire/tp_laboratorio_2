@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1474420096 source:e:\trabajopracticonro.2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1474413712 e:\trabajopracticonro.2\funciones.h
+
+1474420360 source:e:\trabajopracticonro.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1474413664 e:\trabajopracticonro.2\biblioteca.h
+
+1474608463 source:c:\users\isaias ibire\desktop\trabajopracticonro.2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1474608463 c:\users\isaias ibire\desktop\trabajopracticonro.2\funciones.h
+
+1474608463 source:c:\users\isaias ibire\desktop\trabajopracticonro.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1474608464 source:d:\trabajopracticonro.2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1474608464 d:\trabajopracticonro.2\funciones.h
+
+1474684798 source:d:\trabajopracticonro.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
